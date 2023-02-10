@@ -1,0 +1,56 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: 24px 48px;
+  width: 100%;
+}
+.answer-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.chatgpt-wrapper {
+  width: 50%;
+}
+.ant-upload-text {
+  color: rgba(255,  255, 255, .88) !important;
+}
+.ant-upload-hint {
+  color: rgba(255, 255, 255, .48) !important;
+}
+.ant-upload-list-item-container {
+  color: rgba(255,  255, 255, .88) !important;
+}
+.ant-upload-wrapper .ant-upload-drag:not(.ant-upload-disabled):hover {
+  border-color: #41cf40 !important;
+}
+.ant-upload-wrapper .ant-upload-drag p.ant-upload-drag-icon .anticon {
+  color: #41cf40 !important;
+}
+.ant-upload {
+  padding: 16px;
+}
+.ant-btn {
+  width: 100%;
+}
+.button-wrapper {
+  width: 100%;
+}
+.ant-upload-drag {
+  width: 400px !important;
+  height: 300px !important;
+}
+.mr-4 {
+  margin-right: 32px;
+}
+.mb-4{
+  margin-bottom: 32px;
+}
+.w-input {
+  width: 100%;
+}
+.image{
+  width: 200px;
+  height: 150px;
+  margin: 8px 0px;
+}

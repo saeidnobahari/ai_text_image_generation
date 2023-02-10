@@ -1,0 +1,1 @@
+export const openai_api_key = 'Your_OpenAI_Key'
